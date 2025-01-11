@@ -1,5 +1,5 @@
 # bah-blah-bash-sheep
-repos for learning bash
+repos for my script utilities
 
 A set of bash scripts to play around and become familiar with the scripting.
 No echo too small.
